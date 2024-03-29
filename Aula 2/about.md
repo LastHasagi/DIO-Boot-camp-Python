@@ -50,3 +50,10 @@ _Pt 4 --> *Conversão de tipo*_
 
 Para converter um tipo de dado para outro utilize as funções int(), float() e str(). 
 Exemplo no arquivo converter_tipos.py.
+
+_Pt 5 --> *Funções de entrada e  saída*_
+
+A função input() pede um texto e retorna o usuario como string. 
+A função print() serve para imprimir algo na tela.
+
+Exemplos no código entrada_saida.py
